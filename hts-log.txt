@@ -1,0 +1,82 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Mar 2026 17:18:19 at https://www.rvit.edu.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.rvit.edu.in/ -O1 "C:\My Web Sites\COLLAGE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+17:21:46	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/nirf_logo.jpg (from https://www.rvit.edu.in/)
+
+17:21:46	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/placements.php (from https://www.rvit.edu.in/)
+
+17:22:54	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/circuit-pattern.png (from https://www.rvit.edu.in/iic.php)
+
+17:22:56	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/iic_cert_establishment.jpg (from https://www.rvit.edu.in/iic.php)
+
+17:22:56	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/iic_cert_5 star.jpg (from https://www.rvit.edu.in/iic.php)
+
+17:22:56	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/iic_cert_4 star.jpg (from https://www.rvit.edu.in/iic.php)
+
+17:22:56	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/iic_cert_2 star.jpg (from https://www.rvit.edu.in/iic.php)
+
+17:22:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/rvit-logo.jpg (from https://www.rvit.edu.in/collegeov.php)
+
+17:22:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/pattern.png (from https://www.rvit.edu.in/visionandmission.php)
+
+17:22:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/pattern-grid.png (from https://www.rvit.edu.in/cse.php)
+
+17:23:29	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/placeholder.svg?height=400&width=400 (from https://www.rvit.edu.in/fresher.php)
+
+17:23:33	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/Array (from https://www.rvit.edu.in/studymaterial.php)
+
+17:23:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/incubation-projects.pdf (from https://www.rvit.edu.in/incubationcenter.php)
+
+17:23:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/pre-incubation-guide.pdf (from https://www.rvit.edu.in/incubationcenter.php)
+
+17:23:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/patents-list.pdf (from https://www.rvit.edu.in/patents.php)
+
+17:23:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/sponsored-projects.pdf (from https://www.rvit.edu.in/sponsoredprojects.php)
+
+17:23:57	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/research-publications.pdf (from https://www.rvit.edu.in/researchpublications.php)
+
+17:24:02	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/faculty.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:02	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/fee-structure.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:02	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/calendar.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:02	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/regulations.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:02	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/bs-h.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:02	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/mba.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:04	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/anti-ragging.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:04	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/women-protection.php (from https://www.rvit.edu.in/sitemap.php)
+
+17:24:04	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/NISP_Policy_2019.pdf (from https://www.rvit.edu.in/startup-policies.php)
+
+17:24:04	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/RVIT_Innovation_Policy.pdf (from https://www.rvit.edu.in/startup-policies.php)
+
+17:24:04	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/docs/RVIT_IPR_Policy.pdf (from https://www.rvit.edu.in/startup-policies.php)
+
+17:24:07	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/womenprotection.php (from https://www.rvit.edu.in/grievance.php)
+
+17:24:08	Error: 	"Not Found" (404) at link https://www.rvit.edu.in/img/background.jpg (from https://www.rvit.edu.in/css/style.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 49 seconds : 331 links scanned, 299 files written (310297857 bytes overall) [296298420 bytes received at 848992 bytes/sec], 17300057 bytes transferred using HTTP compression in 187 files, ratio 18%, 10.3 requests per connection
+
+(30 errors, 0 warnings, 0 messages)
+
